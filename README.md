@@ -12,3 +12,11 @@
 
    ----------------------------------------------------------------------------------------------------------------
 
+
+```   IMPORT Lambda file into s3 Bucket ``` 
+<img src="https://github.com/MohmadSabri98/AWS/blob/main/import_txtfile_from_lambda_into_s3.jpeg?raw=true" alt="Alt text" title="Optional title">
+<img src="https://github.com/MohmadSabri98/AWS/blob/main/import_file_from_lambda/imLambda1.png?raw=true" alt="Alt text" title="Optional title">
+<img src="https://github.com/MohmadSabri98/AWS/blob/main/import_file_from_lambda/imLamda2.png?raw=true" alt="Alt text" title="Optional title">
+
+   ----------------------------------------------------------------------------------------------------------------
+``` Trigger an uploaded file from S3 Source Bucket to DynamoDB Table and Target S3 Bucket using Lambda Function``` 
