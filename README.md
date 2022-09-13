@@ -1,3 +1,5 @@
-#                                             *AWS LABS*
+```
+#             *AWS LABS*
+```
 ###  TWO LOAD BALANCERS TO DISTRIBUTE THE TRAFFIC ON 2 PUPLIC (PROXY) EC2s INTO 2 PRIVATE (APACHE WEB SERVERS) EC2s INT AZs      
 `#0969DA`
