@@ -20,3 +20,6 @@
 
    ----------------------------------------------------------------------------------------------------------------
 ``` Trigger an uploaded file from S3 Source Bucket to DynamoDB Table and Target S3 Bucket using Lambda Function``` 
+<img src="https://github.com/MohmadSabri98/AWS/blob/main/lambda_dynamoDb_s3.jpeg?raw=true" alt="Alt text" title="Optional title">
+<img src="https://github.com/MohmadSabri98/AWS/blob/main/lamda_and_dynamoDB/1dynamo.jpeg?raw=true" alt="Alt text" title="Optional title">
+<img src="https://github.com/MohmadSabri98/AWS/blob/main/lamda_and_dynamoDB/2dynamo.jpeg?raw=true" alt="Alt text" title="Optional title">
